@@ -1,4 +1,0 @@
-source;share/fsm_talker/hook/pythonpath.dsv
-source;share/fsm_talker/hook/pythonpath.sh
-source;share/fsm_talker/hook/ament_prefix_path.dsv
-source;share/fsm_talker/hook/ament_prefix_path.sh
