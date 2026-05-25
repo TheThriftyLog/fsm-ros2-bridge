@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/fsm_listener/fsm_listener.egg-info
+writing ../build/fsm_listener/fsm_listener.egg-info/PKG-INFO
+writing dependency_links to ../build/fsm_listener/fsm_listener.egg-info/dependency_links.txt
+writing entry points to ../build/fsm_listener/fsm_listener.egg-info/entry_points.txt
+writing requirements to ../build/fsm_listener/fsm_listener.egg-info/requires.txt
+writing top-level names to ../build/fsm_listener/fsm_listener.egg-info/top_level.txt
+writing manifest file '../build/fsm_listener/fsm_listener.egg-info/SOURCES.txt'
+reading manifest file '../build/fsm_listener/fsm_listener.egg-info/SOURCES.txt'
+writing manifest file '../build/fsm_listener/fsm_listener.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/logan/ros2_ws/src/build/fsm_listener/build
+creating /home/logan/ros2_ws/src/build/fsm_listener/build/lib
+creating /home/logan/ros2_ws/src/build/fsm_listener/build/lib/fsm_listener
+copying fsm_listener/__init__.py -> /home/logan/ros2_ws/src/build/fsm_listener/build/lib/fsm_listener
+copying fsm_listener/fsm_listener.py -> /home/logan/ros2_ws/src/build/fsm_listener/build/lib/fsm_listener
+running install
+running install_lib
+creating /home/logan/ros2_ws/src/install/fsm_listener/lib/python3.12/site-packages/fsm_listener
+copying /home/logan/ros2_ws/src/build/fsm_listener/build/lib/fsm_listener/__init__.py -> /home/logan/ros2_ws/src/install/fsm_listener/lib/python3.12/site-packages/fsm_listener
+copying /home/logan/ros2_ws/src/build/fsm_listener/build/lib/fsm_listener/fsm_listener.py -> /home/logan/ros2_ws/src/install/fsm_listener/lib/python3.12/site-packages/fsm_listener
+byte-compiling /home/logan/ros2_ws/src/install/fsm_listener/lib/python3.12/site-packages/fsm_listener/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/logan/ros2_ws/src/install/fsm_listener/lib/python3.12/site-packages/fsm_listener/fsm_listener.py to fsm_listener.cpython-312.pyc
+running install_data
+creating /home/logan/ros2_ws/src/install/fsm_listener/share/ament_index
+creating /home/logan/ros2_ws/src/install/fsm_listener/share/ament_index/resource_index
+creating /home/logan/ros2_ws/src/install/fsm_listener/share/ament_index/resource_index/packages
+copying resource/fsm_listener -> /home/logan/ros2_ws/src/install/fsm_listener/share/ament_index/resource_index/packages
+copying package.xml -> /home/logan/ros2_ws/src/install/fsm_listener/share/fsm_listener
+running install_egg_info
+Copying ../build/fsm_listener/fsm_listener.egg-info to /home/logan/ros2_ws/src/install/fsm_listener/lib/python3.12/site-packages/fsm_listener-0.0.0-py3.12.egg-info
+running install_scripts
+Installing fsm_listener script to /home/logan/ros2_ws/src/install/fsm_listener/lib/fsm_listener
+writing list of installed files to '/home/logan/ros2_ws/src/build/fsm_listener/install.log'

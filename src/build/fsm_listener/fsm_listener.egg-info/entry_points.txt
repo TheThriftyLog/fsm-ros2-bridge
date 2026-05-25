@@ -1,0 +1,2 @@
+[console_scripts]
+fsm_listener = fsm_listener.fsm_listener:main
